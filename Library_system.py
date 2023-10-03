@@ -1,7 +1,3 @@
-'''
-GROUP 7
-CSC/20U/4078 , CSC/20U/3988, CSC/20U/4079, CSC/20U/4032, CSC/20U/4005, CSC/20U/18U/1008, CSC/20U/4100, CSC/20U/4088
-'''
 import tkinter as tk
 from tkinter import messagebox
 class LibraryItem:
